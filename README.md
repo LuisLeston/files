@@ -1,2 +1,2 @@
 # files
-new stuff to put here while training
+files to place for training
