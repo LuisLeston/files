@@ -1,6 +1,3 @@
-# files
-files to place for training
+# first
 
-## Subheader
-
-Watch tutorial
+These is a repo created to train git concepts, the Github interface and python modules
